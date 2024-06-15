@@ -1,3 +1,5 @@
+![logo](https://github.com/tinyturtle28/tinyturtle28/blob/main/cuties%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Laxmi Thapa | <3</h1>
 <h3 align="center">🌟Diving into code, one adorable turtle step at a time!✨</h3>
 
